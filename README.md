@@ -19,4 +19,4 @@ I enjoy the challenge of reimagining existing apps & scripts in my own unique wa
 <br>Lightning Address: <a href="lightning:hadi@getalby.com">hadi@getalby.com</a>
 <br>X: [@AnotherHadi](https://x.com/AnotherHadi)
 
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cookie&emoji=🍪&slug=anotherhadi&button_colour=eed2cc&font_colour=000000&font_family=Inter&outline_colour=ffffff&coffee_colour=ff0000" />
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cookie&emoji=🍪&slug=anotherhadi&button_colour=b4befe&font_colour=101012&font_family=Inter&outline_colour=ffffff&coffee_colour=ff0000" />
