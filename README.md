@@ -3,8 +3,8 @@
 # Hi there!
 
 <p align="center">
-  French developer enthusiastic about bash, golang, webdev & blockchains ☁️ 
-  I deeply value open-source projects & actively seek ways to contribute to the community.
+  French developer enthusiastic about bash, golang, infosec & blockchains ☁️ 
+  <br/>I deeply value open-source projects & actively seek ways to contribute to the community.
   <br/>I'm particularly interested in emerging technologies such as blockchains and cryptocurrency. 
   <br/>I enjoy the challenge of reimagining existing apps & scripts in my own unique way.
   <br/>By creating these projects from scratch, I can ensure complete control over every aspect of their design and functionality.
