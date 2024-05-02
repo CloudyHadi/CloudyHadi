@@ -23,9 +23,9 @@
 
 ---
 
-<br/>Portfolio: <a href="https://hadi.tools/">hadi.tools</a> (Under developement)
+<br/>Portfolio: <a href="https://anotherhadi.com/">anotherhadi.com</a> (Under developement)
 <br/>Nostr NPub: [npub1s7zlgcn5wlc8yyh609xqh79055fapq5lelsmsng2s38dn002n9vsc5dkcj](https://iris.to/npub1s7zlgcn5wlc8yyh609xqh79055fapq5lelsmsng2s38dn002n9vsc5dkcj)
-<br/>Lightning Address: [hadi@hadi.tools](lightning:hadi@hadi.tools)
+<br/>Lightning Address: [hadi@anotherhadi.com](lightning:hadi@anotherhadi.com)
 <br/>X: [@AnotherHadi](https://x.com/AnotherHadi)
 <br/>
 <br/>
