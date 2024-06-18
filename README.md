@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=golang,bash,linux,svelte,git,neovim,docker" />
+    <img src="https://skillicons.dev/icons?i=nix,golang,bash,linux,svelte,git,neovim,docker" />
   </a>
 </p>
 
