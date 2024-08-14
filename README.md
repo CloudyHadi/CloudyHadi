@@ -28,7 +28,6 @@
 <br/>Lightning Address: [hadi@anotherhadi.com](lightning:hadi@anotherhadi.com)
 <br/>X: [@AnotherHadi](https://x.com/AnotherHadi)
 <br/>
-<br/>
 
 <p align="center">
   <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cookie&emoji=🍪&slug=anotherhadi&button_colour=A594FD&font_colour=101012&font_family=Inter" />
